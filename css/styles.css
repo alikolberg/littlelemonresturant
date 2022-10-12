@@ -28,6 +28,7 @@ header > img {
 
 nav ul {
     list-style: none;
+    text-align: center;
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -35,13 +36,13 @@ nav ul {
 
 nav li {
     display: inline-block;
-    color: #ffffff;
-    font-size: 30px;
+    font-size: 34px;
     padding: 14px 16px;
+    color: #000000;
 }
 
 nav a:hover {
-    color: #cbc81f;
+    background-color: #e1db23;
 }
 
 section {
