@@ -28,8 +28,10 @@ header > img {
 nav ul {
     list-style: none;
     text-align: center;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
     background-color: #33684efd;
-    
     
 }
 
@@ -38,6 +40,10 @@ nav li {
     color: #ffffff;
     font-size: 34px;
     padding: 14px 16px;
+}
+
+nav a:hover {
+    background-color: #3ea372d0;
 }
 
 section {
