@@ -15,10 +15,12 @@ h2 {
     font-size: 2rem;
 }
 
+.header_logo img{
+    max-width: 100%;
+}
 
 header > img {
     display: block;
-    flex-wrap: wrap;
     margin-left: auto;
     margin-right: auto;
 }
