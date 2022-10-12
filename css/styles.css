@@ -24,7 +24,9 @@ header > img {
     margin-left: auto;
     margin-right: auto;
 }
-
+nav {
+    background-color: #efef17;
+}
 nav ul {
     list-style: none;
     text-align: center;
@@ -33,6 +35,7 @@ nav ul {
 
 nav li {
     display: inline-block;
+    color: #33684efd;
     font-size: 34px;
 }
 
