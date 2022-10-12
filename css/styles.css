@@ -27,7 +27,7 @@ header > img {
 
 nav {
     border-radius: 30px;
-    background-color: #edefee;
+    background-color: #ffffff;
 }
 nav ul {
     list-style: none;
@@ -47,8 +47,8 @@ nav a {
     color: #000000;
     text-decoration: none;
 }
-a:hover {
-    background-color: #ffff00;
+nav a:hover {
+    background-color: #e2e212;
   }
 
 section {
