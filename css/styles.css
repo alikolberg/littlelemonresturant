@@ -14,7 +14,9 @@ h1 {
 h2 {
     font-size: 2rem;
 }
-
+img {
+    max-width: 100%;
+}
 header > img {
     display: block;
     margin-left: auto;
