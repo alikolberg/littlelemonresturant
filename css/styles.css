@@ -50,13 +50,17 @@ nav a {
 a:hover {
     background-color: #ffff00;
   }
-  
+
 section {
     display: flex;
 }
 
 article {
     flex: 1;
+}
+.details {
+    background-color: #edefee;
+    border-radius: 30px;
 }
 
 footer {
