@@ -40,6 +40,8 @@ nav li {
     padding: 14px 16px;
     color: #000000;
 }
+nav a {
+    color: #000000;
 
 nav a:hover {
     background-color: #e1db23;
