@@ -25,20 +25,18 @@ header > img {
     margin-right: auto;
 }
 
+
 nav ul {
     list-style: none;
-    text-align: center;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #33684efd;
-    
 }
 
 nav li {
     display: inline-block;
     color: #ffffff;
-    font-size: 34px;
+    font-size: 30px;
     padding: 14px 16px;
 }
 
