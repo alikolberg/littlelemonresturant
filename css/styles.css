@@ -25,7 +25,10 @@ header > img {
     margin-right: auto;
 }
 
-
+nav {
+    border-radius: 30px;
+    background-color: #edefee;
+}
 nav ul {
     list-style: none;
     text-align: center;
@@ -42,10 +45,8 @@ nav li {
 }
 nav a {
     color: #000000;
+    text-decoration: none;
 
-nav a:hover {
-    background-color: #e1db23;
-}
 
 section {
     display: flex;
