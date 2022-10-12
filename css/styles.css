@@ -1,6 +1,6 @@
 body {
     background-color: #edefee;
-    font-family: 'Markazi Text', serif;
+    font-family: 'Nunito', serif;
     margin-top: 3rem;
     margin-bottom: 2rem;
     margin-left: 5%;
@@ -28,10 +28,12 @@ header > img {
 nav ul {
     list-style: none;
     text-align: center;
+    
 }
 
 nav li {
     display: inline-block;
+    font-size: 64px;
 }
 
 section {
@@ -51,5 +53,5 @@ footer div {
 }
 
 footer img {
-    max-width: 10%;
+    max-width: 30px;
 }
