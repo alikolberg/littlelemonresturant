@@ -1,6 +1,6 @@
 body {
     background-color: #edefee;
-    font-family: 'Nunito', serif;
+    font-family: 'Nunito', sans-serif;
     margin-top: 3rem;
     margin-bottom: 2rem;
     margin-left: 5%;
@@ -33,7 +33,7 @@ nav ul {
 
 nav li {
     display: inline-block;
-    font-size: 64px;
+    font-size: 34px;
 }
 
 section {
