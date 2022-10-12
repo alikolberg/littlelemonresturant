@@ -49,3 +49,7 @@ footer {
 footer div {
     flex: 1;
 }
+
+footer img {
+    max-width: 100%;
+}
