@@ -37,3 +37,11 @@ section {
 article {
     flex: 1;
 }
+
+footer {
+    display: flex;
+}
+
+footer div {
+    flex: 1;
+}
