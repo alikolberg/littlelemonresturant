@@ -60,6 +60,26 @@ article {
     flex: 1;
 }
 
+.celebrate {
+    background-image: url("birthday.png");
+    background-color: #ffffff;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.celebrate-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
 .details {
     background-color: #ffffff;
     border-radius: 90px;
