@@ -73,8 +73,10 @@ article {
     padding: 15px;
 }
 
-article>img {
-    max-width: fit-content;
+.products_image {
+    padding-bottom: 60%;
+    position: relative;
+    margin-bottom: 1rem;
 }
 
 footer {
