@@ -61,7 +61,7 @@ article {
 }
 
 .celebrate {
-    background-image: url("birthday.png");
+    background-image: url("birthday.jpg");
     background-color: #ffffff;
     height: 500px;
     background-position: center;
@@ -77,7 +77,7 @@ article {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: #000000;
   }
 
 .details {
