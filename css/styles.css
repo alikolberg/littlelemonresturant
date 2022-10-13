@@ -50,6 +50,7 @@ nav a {
 }
 nav a:hover {
     color: #57947C;
+    background-color: yellow;
   }
 
 section {
@@ -61,26 +62,9 @@ article {
 }
 
 
-
-.products {
-    grid-area: products;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1rem;
-    animation: productsShow 2s 1.5s 1 both;
-}
-
-.details {
-    background-color: #ffffff;
-    border-radius: 90px;
-    margin: 10px;
-    padding: 15px;
-}
-
 .imagecol {
-    padding-bottom: 60%;
-    position: relative;
-    margin-bottom: 1rem;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 footer {
