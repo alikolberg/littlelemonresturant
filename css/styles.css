@@ -73,10 +73,9 @@ article {
     padding: 15px;
 }
 
-.products_image {
-    padding-bottom: 60%;
-    position: relative;
-    margin-bottom: 1rem;
+.imagecol {
+    max-width: 500px;
+    max-height: 700px;
 }
 
 footer {
