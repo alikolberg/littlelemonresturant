@@ -9,6 +9,7 @@ body {
 
 h1 {
     font-size: 3rem;
+    text-align: center;
 }
 
 h2 {
@@ -48,7 +49,7 @@ nav a {
     text-decoration: none;
 }
 nav a:hover {
-    color: #ffff008c;
+    color: #57947C;
   }
 
 section {
@@ -66,16 +67,14 @@ article {
 }
 
 .details2 {
-    background-color: #57947C
-    ;
+    background-color: #ffffff;
     border-radius: 90px;
     margin: 10px;
     padding: 15px;
 }
 
-h1 {
-    background-color: #ffff008c;
-    border-radius: 30px;
+article>img {
+    max-width: fit-content;
 }
 
 footer {
