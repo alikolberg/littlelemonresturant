@@ -59,14 +59,8 @@ section {
 article {
     flex: 1;
 }
-.details {
-    background-color: #ffff008c;
-    border-radius: 90px;
-    margin: 10px;
-    padding: 15px;
-}
 
-.details2 {
+.details {
     background-color: #ffffff;
     border-radius: 90px;
     margin: 10px;
