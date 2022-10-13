@@ -48,7 +48,7 @@ nav a {
     text-decoration: none;
 }
 nav a:hover {
-    background-color: #e2e212;
+    color: #ffff008c;
   }
 
 section {
@@ -59,12 +59,28 @@ article {
     flex: 1;
 }
 .details {
-    background-color: #ffffff;
+    background-color: #ffff008c;
+    border-radius: 90px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.details2 {
+    background-color: #57947C
+    ;
+    border-radius: 90px;
+    margin: 10px;
+    padding: 15px;
+}
+
+h1 {
+    background-color: #ffff008c;
     border-radius: 30px;
 }
 
 footer {
     display: flex;
+    margin: 10px;
 }
 
 footer div {
